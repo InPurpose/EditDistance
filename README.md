@@ -1,0 +1,8 @@
+- name: Xiwen Huang 
+- student ID: 862372587
+- net Id: xhuan186
+- simple instructions:
+  - git pull current repository
+  - go to main.cpp and run the program
+  - type in two words that you want to transform
+  - check results
